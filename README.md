@@ -6,7 +6,7 @@
 
 ## Description
 
-A collection of automation scripts for multiple systems.
+A collection of automation scripts ⚙ for multiple systems 💻.
 
 ## Licensing
 
